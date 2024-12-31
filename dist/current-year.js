@@ -1,7 +1,7 @@
 /*!
     current-year - 1.0.0
     Author: Amine Amazou
-    Description: A lightweight JavaScript library that simplifies displaying the current year in HTML elements. Perfect for automating copyright dates and ensuring your content stays accurate without manual updates. Easy to use, minimal setup, and highly efficient!
+    Description: A lightweight Javascript library to simplify operations related to the current year. Ideal for dynamic web content, form autofill, and much more!
     Copyright © 2024 amazou
     Licensed under the MIT license.
     https://github.com/amine-amazou/current-year/blob/main/LICENSE
